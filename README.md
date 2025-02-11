@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy MrOscarDev! 👋
 
 Soy un **Desarrollador FullStack** con experiencia en la creación de soluciones web completas. Domino tecnologías clave en el desarrollo frontend y backend, incluyendo **React** y **Laravel**.  
 Mis habilidades abarcan:
