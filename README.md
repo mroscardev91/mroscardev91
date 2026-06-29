@@ -1,78 +1,49 @@
-# Hi there, I'm MrOscarDev! 👋
+# Óscar Gómez
 
-### Backend Software Engineer & Automation Specialist
+Fullstack Developer · PHP/Laravel · React & Next.js · n8n Automation · AWS & DevOps
 
-I am a software engineer with over **3 years of experience**, specializing in building scalable architectures using **PHP and the Laravel ecosystem**, as well as orchestrating complex workflows with **Python and n8n**.
+Más de 3 años construyendo productos en producción. Trabajo a diario con Laravel y PHP en el backend, React y Next.js en el frontend, y monto automatizaciones complejas con n8n y Python. Cada vez más metido en infraestructura: Docker, y aprendiendo AWS para llevar despliegues a la nube.
 
-My technical focus prioritizes **Clean Code**, technical debt reduction, and the implementation of **DevOps culture** working with AWS services and Docker.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend & Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### DevOps, Cloud & Automation
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white)
-
-### Frontend (Supportive Skills)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+Actualmente compagino mi trabajo a jornada completa con el grado en Ingeniería Informática (UOC) y con mis propios productos: una app de finanzas personales y una plataforma de gestión de torneos, ambas en producción.
 
 ---
 
-## 💼 Professional Experience
+## Lo que hago
 
-### Backend Software Engineer & Automation Specialist | WebCoding
-*Sep 2023 - Present · Barcelona, Spain*
+**Backend** — APIs en Laravel con patrones Repository/Factory, SQL optimizado para volúmenes altos de datos.
 
-Leading the backend architecture and internal automation strategies to transform manual processes into efficient systems.
+**Frontend** — Interfaces en React y Next.js conectadas al backend, con foco en rendimiento.
 
-- **Automation & Scripting:** Designed advanced workflows with **n8n** integrated via custom **Python** scripts, achieving a **30% reduction** in time spent on manual administrative tasks.
-- **API Architecture:** Developed robust RESTful APIs using **Laravel**, applying design patterns (Repository/Factory) and SQL optimization to manage high data volumes.
-- **DevOps Implementation:** Designed and implemented CI/CD pipelines (**GitHub Actions**), decreasing deployment time by **40%** and virtually eliminating human errors in production.
-- **Code Quality:** Promoted Clean Code practices and conducted technical reviews to ensure long-term software maintainability.
+**Automatización** — Workflows end-to-end con n8n y Python, con reducciones medibles de trabajo manual.
 
-### Full Stack Developer | Freelance
-*Jan 2020 - Jun 2023 · Vilanova i la Geltrú, Spain*
-
-- Developed custom web applications using native PHP and Laravel for local businesses.
-- Designed efficient relational database schemas to ensure data integrity.
+**DevOps** — Pipelines CI/CD con GitHub Actions y GitLab CI, contenedores con Docker, despliegues en AWS.
 
 ---
 
-## 🚀 Featured Projects
+## Experiencia
 
-### [InvenMedPro](https://github.com/mroscardev91/InvenMedPro)
-A comprehensive solution for medical/professional management. This project demonstrates my ability to integrate backend logic with modern frontend interfaces.
+**Software Engineer & Automation Specialist** · WebCoding · Sept 2023 – Actualidad
 
-- **Architecture:** Robust backend with **Laravel** and optimized SQL database.
-- **Frontend:** Intuitive interfaces built with **React**.
-- **Focus:** Scalability, data integrity, and responsive design.
+- Diseño y automatizo workflows con n8n y Python — reducción del 30% en trabajo manual del equipo.
+- Arquitectura de APIs REST con Laravel, patrones de diseño y optimización SQL para alto volumen.
+- Pipelines CI/CD con GitHub Actions — reducción del 40% en tiempo de despliegue.
+- Gestión de infraestructura cloud en AWS (EC2, S3, RDS) y contenedorización con Docker.
+- Code reviews y prácticas de Clean Code para mantenibilidad a largo plazo.
 
----
+**Desarrollador Fullstack Freelance** · 2020 – 2023
 
-## 🎓 Education
-
-- **Bachelor's Degree in Computer Engineering**
-  *Universitat Oberta de Catalunya (UOC)* | *2024 - Present*
-  *Focus: Algorithms, System Architecture, and Design Patterns.*
-
-- **Higher Technician in Web Application Development**
-  *Instituto Joaquim Mir* | *2022 - 2024*
+- Aplicaciones web a medida con PHP y Laravel para digitalizar negocios locales.
+- Diseño de esquemas relacionales y APIs para clientes reales.
 
 ---
 
-## 📫 Connect with me
+## Educación
 
-- [LinkedIn](https://www.linkedin.com/in/mroscardev)
-- [Website](https://mroscar.dev)
+- **Grado en Ingeniería Informática** — UOC / EPSEVG-UPC (2024 – Actualidad)
+- **CFGS Desarrollo de Aplicaciones Web** — Instituto Joaquim Mir (2022 – 2024)
+
+---
+
+## Conecta
+
+[LinkedIn](https://www.linkedin.com/in/mroscardev) · [Web](https://mroscar.dev)
