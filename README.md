@@ -17,7 +17,7 @@ I build production web applications, automation systems and product-driven side 
 ## About me
 
 - 💻 **Software Engineer at WebCoding**, working across backend, frontend, automation and delivery.
-- ⚙️ Backend mainly with **PHP, Laravel, Pyhton, REST APIs and SQL**.
+- ⚙️ Backend with **PHP/Laravel, Python, Java, REST APIs and SQL**.
 - 🎨 Frontend with **React, Next.js, JavaScript and TypeScript**.
 - 🤖 Automation and integrations with **n8n, Python and AI tooling**.
 - 🚀 CI/CD and reproducible environments with **GitHub Actions, GitLab CI and Docker**.
@@ -79,6 +79,7 @@ Full-stack application for inventory and operational management in medical cente
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -100,7 +101,7 @@ Full-stack application for inventory and operational management in medical cente
 Building software in production   → WebCoding
 Building my own products          → Sumant · Subwave
 Studying Computer Engineering     → UOC
-Learning                          → system design · cloud · AI-assisted engineering
+Deepening                         → Java · system design · cloud · AI-assisted engineering
 ```
 
 ---
