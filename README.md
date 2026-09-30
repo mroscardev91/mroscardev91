@@ -101,7 +101,7 @@ Full-stack application for inventory and operational management in medical cente
 Building software in production   → WebCoding
 Building my own products          → Sumant · Subwave
 Studying Computer Engineering     → UOC
-Learning                          → Java · system design · cloud · AI-assisted engineering
+Deepening                         → Java · system design · cloud · AI-assisted engineering
 ```
 
 ---
