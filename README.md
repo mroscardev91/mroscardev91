@@ -17,7 +17,7 @@ I build production web applications, automation systems and product-driven side 
 ## About me
 
 - 💻 **Software Engineer at WebCoding**, working across backend, frontend, automation and delivery.
-- ⚙️ Backend mainly with **PHP/Laravel, Python, Java, REST APIs and SQL**.
+- ⚙️ Backend with **PHP/Laravel, Python, Java, REST APIs and SQL**.
 - 🎨 Frontend with **React, Next.js, JavaScript and TypeScript**.
 - 🤖 Automation and integrations with **n8n, Python and AI tooling**.
 - 🚀 CI/CD and reproducible environments with **GitHub Actions, GitLab CI and Docker**.
